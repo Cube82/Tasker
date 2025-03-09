@@ -1,0 +1,10 @@
+<resources>
+    <string name="button_add_task">add task</string>
+    <string name="button_connect">connect</string>
+    <string name="button_disconnect">disconnect</string>
+    <string name="label_task_description">task description</string>
+    <string name="label_task_name">task name</string>
+    <string name="label_task_priority">task priority</string>
+    <string name="task_item_description">description: %1$s</string>
+    <string name="task_item_name">name: %1$s</string>
+</resources>

@@ -1,0 +1,42 @@
+# IntelliJ IDEA / Android Studio
+.cxx/
+captures/
+.externalNativeBuild/
+.idea/
+*.iml
+*.iws
+out/
+
+# Gradle
+.gradle/
+!src/**/build/
+build/
+*/build/
+!*/src/**/build/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Kotlin/JS (Web)
+.kotlin
+kotlin-js-store/
+node_modules/
+
+# Android
+local.properties
+*.apk
+*.ap_
+*.hprof
+
+# xCode
+xcuserdata/
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
+
+# Ktor
+.ktor/
